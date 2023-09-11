@@ -1,6 +1,8 @@
 package main
 
-import fmt;
-int main(){
-fmt.printf('hello world');
+import "fmt"
+
+func main() {
+	fmt.Printf("hello world!")
+
 }
